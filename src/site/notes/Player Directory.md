@@ -550,5 +550,14 @@ Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or y
 ![Abberrant Sorcery.png](/img/user/Z_Art/Abberrant%20Sorcery.png)**<p style="text-align:center;">Wield Unnatural Psionic Power</p>**
 
 ---
+###### Artificer Artilierist
+An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars on many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife. 
+
+---
+![Artiliritst.png](/img/user/Z_Art/Artiliritst.png)**<p style="text-align:center;">Revel In the Collateral Damage</p>**
+
+---
+
+
 > [!question] Note: Disclaimer
 >Space sickness is a common malady that primarily affects world-huggers. Before embarking on a Wildspace voyage, consult your local apothecary for a suitable remedy, such as a box of crackers, a perfume-soaked handkerchief, or a mop. Thank you for reading.
